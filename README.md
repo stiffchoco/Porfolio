@@ -6,10 +6,12 @@
 - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Overview
-My portfolio [website](http://cbaj.epizy.com/?i=1) 
+My portfolio [website](http://cbaj.epizy.com/?i=1)  Hi, This is the Personal Portfolio site for Charles Bentum-Annan, built with HTML5, CSS3, JavaScript & Bootstrap and a lot of love. Feel free to use the code, do remember to star as you do and in case of any issue feel free to ping me out or open a issue over here.
+
+Thank You
 <!-- TODO: Add a screenshot of the live project.
     1. Link to a 'live demo.'
     2. Describe your overall experience in a couple of sentences.
@@ -42,9 +44,8 @@ My portfolio [website](http://cbaj.epizy.com/?i=1)
 <!-- TODO: List what specific 'user problems' that this application solves. -->
 
 ## Contact
-
+annancharles772@gmail.com
 <!-- TODO: Include icons and links to your RELEVANT, PROFESSIONAL 'DEV-ORIENTED' social media. LinkedIn and dev.to are minimum. -->
 
-## Acknowledgements
 
 <!-- TODO: List any blog posts, tutorials or plugins that you may have used to complete the project. Only list those that had a significant impact. Obviously, we all 'Google' stuff while working on our things, but maybe something in particular stood out as a 'major contributor' to your skill set for this project. -->
