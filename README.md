@@ -23,7 +23,7 @@ My portfolio [website](http://cbaj.epizy.com/?i=1)
 - **CSS3** 🚀
 - **JavaScript** 🚀
 - **BootStrap** 🚀
-- - **jQuery** 🚀
+- **jQuery** 🚀
 
 ---
 
@@ -37,6 +37,7 @@ My portfolio [website](http://cbaj.epizy.com/?i=1)
 ⚡️ Valid HTML5, CSS3 & JavaScript
 ⚡️ A display of a range of my work.
 ⚡️ Easy to modify
+⚡️ Deployed with Infinity Free
 
 <!-- TODO: List what specific 'user problems' that this application solves. -->
 
