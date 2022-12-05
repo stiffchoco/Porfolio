@@ -19,8 +19,8 @@ My portfolio [website](http://cbaj.epizy.com/?i=1)
 
 ### Built With
 
-- **HTML** 🚀
-- **CSS** 🚀
+- **HTML5** 🚀
+- **CSS3** 🚀
 - **JavaScript** 🚀
 - **BootStrap** 🚀
 - - **jQuery** 🚀
@@ -33,6 +33,10 @@ My portfolio [website](http://cbaj.epizy.com/?i=1)
 <!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
 
 ## Features
+⚡️ Fully Responsive
+⚡️ Valid HTML5, CSS3 & JavaScript
+⚡️ A display of a range of my work.
+⚡️ Easy to modify
 
 <!-- TODO: List what specific 'user problems' that this application solves. -->
 
